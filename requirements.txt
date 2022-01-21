@@ -16,7 +16,7 @@ Flask==1.0.2
 googletrans==2.4.0
 idna==2.8
 ipykernel==5.1.0
-ipython==7.2.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 itsdangerous==1.1.0
